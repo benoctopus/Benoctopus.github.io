@@ -9,5 +9,7 @@
 }
 
 .port-img {
-height: 204px;
+
+    height: 204px;
+    width: 100%;
 }
