@@ -4,6 +4,10 @@
     position:fixed;
 }
 
+a:hover {
+    border: none;
+    font-weight: bold;
+}
 .image-margins {
     margin-bottom: 20px;
 }
