@@ -17,3 +17,8 @@ a:hover {
     height: 204px;
     width: 100%;
 }
+
+.port-text {
+    font-size: 20px;
+    margin-top: 5px;
+}
